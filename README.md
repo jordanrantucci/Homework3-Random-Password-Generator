@@ -46,7 +46,7 @@ Deployed application link: (https:/XXXX)
 
 
 Screenshot of deployed application:
-![Alt text](/Assets/password-generator-screenshot.png?raw=true "Password Generator Screenshot")
+![Alt text](/assets/display-screen-shot.jpg?raw=true "Password Generator Screenshot")
 
 
 ## Table of Contents
