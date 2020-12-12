@@ -42,7 +42,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page.
 
 
-Deployed application link: (https:/XXXX)
+Deployed application link: (https://jordanrantucci.github.io/Homework3-Random-Password-Generator/)
 
 
 Screenshot of deployed application:
